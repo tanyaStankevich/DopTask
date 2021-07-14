@@ -112,8 +112,8 @@ list.fetchHamburger();
 list.fetchTopping();
 list.renderHamburger();
 list.renderTopping();
-list.renderCalculatePrice();
-list.renderCalculateCalories()
+
+
 
 
 
